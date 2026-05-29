@@ -1,6 +1,6 @@
 package application;
 
-public class SolucaoRuim {
+public class SolucaoMuitoRuim {
 	
 	public static void main(String[] args) {
 		
