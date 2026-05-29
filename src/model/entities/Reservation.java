@@ -53,13 +53,13 @@ public class Reservation {
 	public String toString() {
 		return "Room "
 				+roomNumber
-				+", check-in"
+				+", check-in: "
 				+sdf.format(checkIn)
-				+", check-out"
+				+", check-out: "
 				+sdf.format(checkOut)
 				+", "
 				+duration()
-				+" nights";
+				+" nights.";
 				
 	}
 	
